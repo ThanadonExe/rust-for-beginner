@@ -26,3 +26,5 @@ https://www.udemy.com/course/the-rust-programming-language-for-beginners/
     - Slices
 - Section 7 (Cargo, Crates.io)
     - Guessing Game
+- Section 8 (Structure)
+    - Structs
