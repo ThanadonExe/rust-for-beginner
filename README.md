@@ -24,3 +24,5 @@ https://www.udemy.com/course/the-rust-programming-language-for-beginners/
     - Ownership and Functions
     - References and Borrowing
     - Slices
+- Section 7 (Cargo, Crates.io)
+    - Guessing Game
