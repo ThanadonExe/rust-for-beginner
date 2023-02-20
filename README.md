@@ -28,3 +28,10 @@ https://www.udemy.com/course/the-rust-programming-language-for-beginners/
     - Guessing Game
 - Section 8 (Structure)
     - Structs
+- Section 9 (Enum & Pattern Matching)
+    - Enum
+    - Match
+- Section 10 (Modules)
+    - Communicator
+    - Food
+    - Facebook
